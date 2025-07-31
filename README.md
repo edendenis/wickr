@@ -1,12 +1,12 @@
-# Como configurar/instalar/usar o `BleachBit` no `Linux Ubuntu`
+# Como configurar/instalar/usar o `Wickr` no `Linux Ubuntu`
 
 ## Resumo
 
-Neste documento estao contidos os principais comandos e configuracoes para configurar/instalar/usar o `BleachBit` no `Linux Ubuntu`.
+Neste documento estao contidos os principais comandos e configuracoes para configurar/instalar/usar o `Wickr` no `Linux Ubuntu`.
 
 ## _Abstract_
 
-_This document contains the main commands and settings for configuring/installing/using `BleachBit` on `Linux Ubuntu`._
+_This document contains the main commands and settings for configuring/installing/using `Wickr` on `Linux Ubuntu`._
 
 
 ```python
@@ -69,23 +69,23 @@ Para instalar o `pdftotext`, siga os passos abaixo:
     ```
 
 
-2. Instale o `BleachBit` atraves do gerenciador de pacotes:
+2. Instale o `Wickr` utilizando o Snap Store:
    ```bash
-   sudo apt install bleachbit -y
+   sudo snap install wickrme
    ```
-3. Execute o `BleachBit` via interface grafica ou pelo terminal:
+3. Execute o `Wickr` via interface grafica ou pelo terminal:
    ```bash
-   bleachbit
+   wickrme
    ```
-   Para executar como administrador (permitindo uma limpeza mais profunda):
+   Para executar com privilegios administrativos:
    ```bash
-   sudo bleachbit
+   sudo wickrme
    ```
 
 ### Dicas adicionais
 
-O `BleachBit` possui diversas opcoes de limpeza. Explore as categorias disponiveis e marque apenas o que deseja remover. Sempre revise as opcoes antes de executa-las para evitar a exclusao de dados importantes.
+O `Wickr` permite comunicacao segura e criptografada. Explore as configuracoes disponiveis e ajuste-as conforme suas necessidades de privacidade.
 
 ## Referencias
 
-[1] OPENAI. ***Instalar BleachBit no Ubuntu***. Acessado em: 31/07/2024.
+[1] OPENAI. ***Instalar Wickr no Ubuntu***. Disponível em: <https://chat.openai.com/share/wickr-install>. Acessado em: 31/07/2025.
